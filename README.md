@@ -1,6 +1,6 @@
 # Data Processing Using Python
 
-In this project, I am doing data processing on Jupyter Notebook. All the codes will be provided here
+In this project, I will be doing data processing in Jupyter Notebook. All the codes will be provided here
 
 I will be discussing how to download, load, merge, clean and aggregate the COVID-19 time series dataset. The dataset is provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) on a public Github page. The dataset is updated every day.
 
