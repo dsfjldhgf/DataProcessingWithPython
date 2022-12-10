@@ -5,6 +5,7 @@ In this project, I will be doing data processing in Jupyter Notebook. All the co
 I will be discussing how to download, load, merge, clean and aggregate the COVID-19 time series dataset. The dataset is provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) on a public Github page. The dataset is updated everyday.
 
 The dataset can be downloaded at https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series. 
+
 We are only focusing on 
 'time_series_covid19_confirmed_global.csv', 
 'time_series_covid19_deaths_global.csv' and 
