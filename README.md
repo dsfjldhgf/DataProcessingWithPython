@@ -1,16 +1,16 @@
-# Data Processing for Covid-19 time series dataset
+# Data Processing and Data Visualization for Covid-19 time series dataset
 
-In this project, I will be doing data processing in Jupyter Notebook. All the codes will be provided in the ipynb file.
+In this project, I will be doing data processing and data visualization dashboard in both Jupyter Notebook and Power BI Desktop. All the codes will be provided in the 'Covid-19 Data Processing Project.ipynb' file. For visualization dashboard, please download the 'Covid-19 Data Exploration.pbix' file and open it in Power BI Desktop.
 
-I will be discussing how to download, load, merge, clean and aggregate the COVID-19 time series dataset. The dataset is provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) on a public Github page. The dataset is updated everyday.
+I will be discussing how to download, load, merge, clean and aggregate the COVID-19 time series dataset in Jupyter Notebook using Python. Then I will be creating a visualization dashboard using Power BI. 
+
+The dataset is provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) on a public Github page. The dataset is updated everyday.
 
 The dataset can be downloaded at https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series. 
 Please refer to 
 'time_series_covid19_confirmed_global.csv', 
 'time_series_covid19_deaths_global.csv' and 
 'time_series_covid19_recovered_global.csv'.
-
-There will be instructions on how to download the dataset in the ipynb file that I have provided.
 
 The 2022-12-10 version Covid-19 time series dataset will be provided for reference. A final cleaned dataset called 'Covid-19 Data Processing Completed.csv' will also be provided.
 
