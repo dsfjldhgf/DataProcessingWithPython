@@ -11,7 +11,7 @@ We are only focusing on
 'time_series_covid19_deaths_global.csv' and 
 'time_series_covid19_recovered_global.csv'.
 
-I was doing this project on 2022-11-07 and downloaded the corresponding dataset as excel files. I will be uploading the 2022-11-07 version excel files as reference. 
+I will be uploading the 2022-12-10 version Covid-19 time series dataset as excel files for reference. A final cleaned dataset will also be uploaded as excel file.
 
 Finally, I would like to give all the credits to Bindi Chen who published a article on Medium showing great insights for how to process with such a big and complicated dataset. 
 Reference: https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6
