@@ -12,7 +12,7 @@ Please refer to
 'time_series_covid19_deaths_global.csv' and 
 'time_series_covid19_recovered_global.csv'.
 
-The 2022-12-10 version Covid-19 time series dataset will be provided for reference. A final cleaned dataset called 'Covid-19 Data Processing Completed.csv' will also be provided.
+The 2022-12-10 version Covid-19 time series dataset in Excel Workbook will be provided for reference. A final cleaned dataset called 'Covid-19 Data Processing Completed.csv' will also be provided.
 
 Finally, I would like to give all the credits to Bindi Chen who published a article on Medium showing great insights for how to process with such a big and complicated dataset. 
 Reference: https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6
